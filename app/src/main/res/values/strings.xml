@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Media Seed</string>
+    <string name="results_for_text">"Since you\'re into \n %s (%s), \n you might also enjoy:</string>
+    <string name="search_description">Get recommendations for stuff we think you\'ll love based on stuff
+        you already love. Just enter the name of a movie, show, book, author, game or music. Give it a try!
+    </string>
+    <string name="search">Find Awesome stuff</string>
+    <string name="search_hint">What do you love?</string>
+    <string name="blank_error_message">Type in something to search for</string>
+    <string name="happy_face_content_description">Happy face image</string>
+    <string name="no_result_error">Dang, either you didn\'t add your private key to Constants.kt or you\'ve exceeded
+        your hourly TasteDive quota.
+    </string>
+</resources>

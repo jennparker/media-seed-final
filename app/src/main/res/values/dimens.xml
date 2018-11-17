@@ -1,0 +1,14 @@
+<resources>
+    <!--Cards-->
+    <dimen name="card_element_padding">12dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="card_corner_radius">10dp</dimen>
+
+    <!--Search-->
+    <dimen name="layout_margin">16dp</dimen>
+    <dimen name="result_movie_text">20sp</dimen>
+    <dimen name="element_padding">8dp</dimen>
+    <dimen name="button_margin">24dp</dimen>
+    <dimen name="description_text">22sp</dimen>
+    <dimen name="icon_size">48dp</dimen>
+</resources>
