@@ -34,8 +34,7 @@ class Constants {
     companion object {
         const val TASTE_DIVE_BASE_URL: String = "https://tastedive.com/api/similar?"
         const val QUERY_KEY: String = "q="
-        //  const val TASTE_DIVE_API_KEY: String = "&k=INSERT KEY HERE"
-        const val TASTE_DIVE_API_KEY: String = "&k=322552-MovieGro-VR4OHB0J"
+        const val TASTE_DIVE_API_KEY: String = "&k=INSERT KEY HERE"
 
         // info 0 (default) returns only media name and media type
         // info 1 returns name, type, description, Wikipedia link, YouTube link, YouTube ID
